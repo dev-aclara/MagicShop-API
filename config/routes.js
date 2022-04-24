@@ -79,7 +79,7 @@ routes.get("/quote/member/:member",  (req, res) => {
     let quotes = data.filter((bts) => bts.member === findMember);
   
     if (!quotes.length){
-        return res.status(404).json({ Error: "User not found" });
+        return res.status(404).json({ Error: "Member not found" });
     }
     quotes = quotes.map((bts) => bts.quote);
   
