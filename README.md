@@ -47,7 +47,7 @@ accesss http://localhost:21262
 
 ## Developed by
 
-Ana Clara Mansano Pereira, computer science studen UNIFAI - Adamantina, São Paulo
+Ana Clara Mansano Pereira, computer science student UNIFAI - Adamantina, São Paulo
 
 Inspiration: [BTS QUOTES API](https://github.com/oanhgle/bangtan-api)
 
